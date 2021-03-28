@@ -1,0 +1,22 @@
+{
+  "triangle_list": [
+    {
+      "height": 5,
+      "base": 5,
+      "a_side": 5,
+      "c_side": 7.07
+    },
+    {
+      "height": 6.93,
+      "base": 8,
+      "a_side": 8,
+      "c_side": 8
+    },
+    {
+      "height": 24,
+      "base": 50,
+      "a_side": 30,
+      "c_side": 40
+    }
+  ]
+}
